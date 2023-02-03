@@ -14,7 +14,7 @@
     </div>
 
 
-    <div class="pt-64 flex flex-col items-center">
+    <div class="pt-52 flex flex-col items-center">
         <h1 class="text-3xl text-white mb-10">001. ABOUT ME</h1>
         <h2 class="text-xl w-1/2 text-white mb-28 text-center leading-relaxed">Hi ! <a>I'm Mathis CHOUFFOT</a>, I am a student at <a>Epitech Digital School</a>. I am led to discover and use digital through different projects. From the <a>UX/UI</a> to the <a>developement</a>, passing by <a>business</a>, we approach the question of <a>digital transformation</a>.</h2>
         
