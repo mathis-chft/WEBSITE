@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: 'Neue Montreal Bold';
-    src: url('../fonts/NeueMontreal-Bold.otf');
+    src: url('../fonts/NeueMontrealBold.otf');
 }
 @font-face {
     font-family: 'Aiglon Pro Extended';
-    src: url('../fonts/AiglonProExtended-Demi.otf');
+    src: url('../fonts/AiglonProExtendedDemi.otf');
 }
 
 h1 {
