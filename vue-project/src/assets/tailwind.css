@@ -7,18 +7,9 @@
     src: url('../fonts/NeueMontreal-Bold.otf');
 }
 @font-face {
-    font-family: 'Neue Montreal Italic';
-    src: url('../fonts/NeueMontreal-BoldItalic.otf');
-}
-@font-face {
     font-family: 'Aiglon Pro Extended';
     src: url('../fonts/AiglonProExtended-Demi.otf');
 }
-@font-face {
-    font-family: 'Aiglon Pro Regular';
-    src: url('../fonts/AiglonPro-Regular.otf');
-}
-
 
 .title {
     font-family: 'Aiglon Pro Extended';
@@ -30,6 +21,7 @@ h2 {
     font-family: 'Neue Montreal Bold';
 }
 a {
-    font-family: 'Neue Montreal Italic';
+    font-family: 'Neue Montreal Bold';
+    font-style: italic;
     color: #00B15A;
 }
