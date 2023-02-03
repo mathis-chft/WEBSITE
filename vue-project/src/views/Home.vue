@@ -2,13 +2,13 @@
     <div>
         <nav class=" bg-black h-24 flex fixed w-full justify-around items-center text-center">
             <RouterLink to="/">
-                <img class="h-12 w-12 rounded-full hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/face.png">
+                <img class="h-11 w-11 rounded-full hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/face.png">
             </RouterLink>
 
-            <h1 class="text-lg title text-white">Mathis CHOUFFOT</h1>
+            <h1 class="text-xl title text-white">Mathis CHOUFFOT</h1>
             
             <a href="https://www.linkedin.com/in/mathis-chouffot/">
-                <img class="h-10 w-10 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/linkedin.svg">
+                <img class="h-9 w-9 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2 " src="../assets/linkedin.svg">
             </a>
         </nav>
     </div>
