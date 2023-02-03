@@ -4,10 +4,12 @@
 
 @font-face {
     font-family: 'Neue Montreal Bold';
+    unicode-range: U+000-5FF;
     src: url('../fonts/NeueMontrealBold.woff2');
 }
 @font-face {
     font-family: 'Aiglon Pro Extended';
+    unicode-range: U+000-5FF;
     src: url('../fonts/AiglonProExtendedDemi.woff2');
 }
 
