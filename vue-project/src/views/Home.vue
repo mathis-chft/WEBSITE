@@ -1,11 +1,11 @@
 <template>
         <nav class="bg-black h-24 w-screen flex fixed justify-between items-center text-center">
             <RouterLink to="/">
-                <img class="hover:transition-opacity ml-8 duration-300 h-11 w-11 rounded-full hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/face.png">
+                <img class="hover:transition-opacity ml-8 duration-300 h-11 w-11 rounded-full hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/face.webp" alt="Photo de profil">
             </RouterLink>
             <h1 class="text-xl title text-white">Mathis CHOUFFOT</h1>
             <a href="https://www.linkedin.com/in/mathis-chouffot/">
-                <img class="hover:transition-opacity duration-300 min-h-full mr-8 h-9 w-9 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2 " src="../assets/linkedin.svg">
+                <img class="hover:transition-opacity duration-300 min-h-full mr-8 h-9 w-9 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2 " src="../assets/linkedin.svg" alt="Logo LinkedIn">
             </a>
         </nav>
 
