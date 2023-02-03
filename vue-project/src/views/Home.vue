@@ -15,9 +15,9 @@
     </div>
 
     <h1 class="text-3xl text-white mb-14 justify-around items-center text-center">002. MY PROJECTS</h1>
-    <div class=" gap-12 flex flex-col items-center">
+    <div class=" gap-12 mb-12 flex flex-col items-center">
         <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
         <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
-        <div class="hover:transition-opacity duration-300 mb-12 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
+        <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
     </div>
 </template>
