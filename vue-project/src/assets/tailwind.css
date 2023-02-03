@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Neue Montreal Bold';
+    src: url('../fonts/NeueMontreal-Bold.otf');
+}
+@font-face {
+    font-family: 'Neue Montreal Italic';
+    src: url('../fonts/NeueMontreal-BoldItalic.otf');
+}
+@font-face {
+    font-family: 'Aiglon Pro Extended';
+    src: url('../fonts/AiglonProExtended-Demi.otf');
+}
+@font-face {
+    font-family: 'Aiglon Pro Regular';
+    src: url('../fonts/AiglonPro-Regular.otf');
+}
+
+
+.title {
+    font-family: 'Aiglon Pro Extended';
+    font-size: 1.5rem;
+}
+h1 {
+    font-family: 'Neue Montreal Bold';
+}
+h2 {
+    font-family: 'Neue Montreal Bold';
+}
+a {
+    font-family: 'Neue Montreal Italic';
+    color: #00B15A;
+}
