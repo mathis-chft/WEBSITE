@@ -9,7 +9,6 @@ import { RouterLink, RouterView } from "vue-router";
 </template>
 
 <style>
-
 body {
   background-color: #000000;
 }
