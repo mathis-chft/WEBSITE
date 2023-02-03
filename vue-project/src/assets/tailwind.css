@@ -14,10 +14,7 @@
 h1 {
     font-family: 'Aiglon Pro Extended';
 }
-h2 {
-    font-family: 'Neue Montreal Bold';
-}
-h3 {
+h2, h3 {
     font-family: 'Neue Montreal Bold';
 }
 a {
