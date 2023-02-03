@@ -11,7 +11,7 @@
         <h3 class="w-1/2 text-xl leading-relaxed text-center text-white mb-28">Hey there! I'm <a>Mathis CHOUFFOT</a>, student at <a>Epitech Digital School</a>. I'm all about learning about and working on <a>digital transformation</a>. My school projects cover a wide range of digital topics, from <a>UX/UI</a> design to <a>developement</a> passing by <a>business</a>. Basically, I'm trying to figure out how digital can be used to transform the world.</h3>
     </div>
     <h2 class="items-center justify-around text-3xl text-center text-white mb-14">002. MY PROJECTS</h2>
-    <div class="flex flex-col items-center gap-12 mb-12 ">
+    <div class="flex flex-col items-center gap-12">
         <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
         <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
         <div class="hover:transition-opacity duration-300 h-48 w-[50%] rounded-[34px] bg-[#0c0c0c] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></div>
