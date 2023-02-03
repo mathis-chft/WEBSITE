@@ -11,13 +11,13 @@
     src: url('../fonts/AiglonProExtended-Demi.otf');
 }
 
-.title {
+h1 {
     font-family: 'Aiglon Pro Extended';
 }
-h1 {
+h2 {
     font-family: 'Neue Montreal Bold';
 }
-h2 {
+h3 {
     font-family: 'Neue Montreal Bold';
 }
 a {
