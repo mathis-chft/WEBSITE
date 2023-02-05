@@ -1,6 +1,6 @@
 <template>
     <Navbar/>
-    <div class="flex flex-col items-center pt-52">
+    <div class="flex flex-col items-center pt-44">
         <AboutMe/>
     </div>
     <div class="flex flex-col items-center gap-12 mb-9">
