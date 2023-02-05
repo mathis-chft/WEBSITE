@@ -3,7 +3,14 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <body class="bg-black">
+  <body>
     <RouterView/>
   </body>
 </template>
+
+<style>
+
+body {
+  background-color: black;
+}
+</style>
