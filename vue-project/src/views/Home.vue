@@ -4,6 +4,7 @@
         <AboutMe/>
     </div>
     <div class="flex flex-col items-center gap-12">
+    <h2 class="mb-10 text-3xl text-white">002. MY PROJECTS</h2>
         <Projects/>
         <Projects/>
     </div>
