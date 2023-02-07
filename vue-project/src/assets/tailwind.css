@@ -13,17 +13,17 @@
     src: url('../fonts/AiglonProExtendedDemi.woff2');
 }
 
+* {
+    font-display: swap;
+}
 h1 {
     font-family: 'Aiglon Pro Extended';
-    font-display: swap;
 }
 h2, h3 {
     font-family: 'Neue Montreal Bold';
-    font-display: swap;
 }
 txt {
     font-family: 'Neue Montreal Bold';
     font-style: italic;
     color: #00B15A;
-    font-display: swap;
 }
