@@ -13,9 +13,6 @@
     src: url('../fonts/AiglonProExtendedDemi.woff2');
 }
 
-* {
-    font-display: swap;
-}
 h1 {
     font-family: 'Aiglon Pro Extended';
 }
