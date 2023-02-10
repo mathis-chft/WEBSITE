@@ -5,7 +5,7 @@
         </a>
         <h1 class="text-xl text-white">Mathis CHOUFFOT</h1>
         <a href="https://www.linkedin.com/in/mathis-chouffot/">
-            <img class="mr-8 duration-300 hover:scale-110 hover:ease-in-out min-h-full h-8 w-8 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/linkedin.svg" alt="Logo LinkedIn">
+        <img class="mr-8 duration-300 hover:scale-110 hover:ease-in-out min-h-full h-8 w-8 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/linkedin.svg" alt="Logo LinkedIn">
         </a>
     </nav>
 </template>
