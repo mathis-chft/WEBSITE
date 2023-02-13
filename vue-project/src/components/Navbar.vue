@@ -9,7 +9,7 @@
       </a>
     </nav>
   </template>
-  
+
   <script>
   export default {
     methods: {
