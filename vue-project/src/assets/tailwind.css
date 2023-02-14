@@ -15,6 +15,10 @@
     src: url('../fonts/AiglonProExtendedDemi.woff2');
 }
 
+body {
+    background-color: black;
+}
+
 h1 {
     font-family: 'Aiglon Pro Extended';
 }

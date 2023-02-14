@@ -7,10 +7,3 @@ import { RouterLink, RouterView } from "vue-router";
     <RouterView/>
   </body>
 </template>
-
-<style>
-
-body {
-  background-color: black;
-}
-</style>
