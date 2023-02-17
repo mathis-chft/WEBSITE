@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col items-center pt-24">
+    <div class="flex flex-col items-center pt-16">
         <devdef/>
     </div>
 </template>
