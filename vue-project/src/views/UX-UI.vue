@@ -1,6 +1,6 @@
 <template>
     <Navbar/>
-    <div class="flex flex-col items-center pt-32 text-center">
+    <div class="flex flex-col items-center text-center pt-44">
         <UXUIdef/>
     </div>
 </template>
