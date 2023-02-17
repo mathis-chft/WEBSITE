@@ -15,13 +15,24 @@ import Projects from '../components/Projects.vue';
 import Navbar from '../components/Navbar.vue';
 import AboutMe from '../components/AboutMe.vue';
 import Contact from '../components/Contact.vue'
+import Transformationdigitaledef from '../components/Transformationdigitaledef.vue';
+import UXUIdef from '../components/UXUIdef.vue';
+import devdef from '../components/devdef.vue';
+import businessdef from '../components/businessdef.vue';
+import digitaldef from '../components/digitaldef.vue';
+
 export default {
     name: 'Home',
     components: {
         Projects,
         Navbar,
         Contact,
-        AboutMe
+        AboutMe,
+        Transformationdigitaledef,
+        UXUIdef,
+        devdef,
+        businessdef,
+        digitaldef
     }
 }
 </script>
