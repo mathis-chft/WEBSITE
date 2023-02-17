@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col items-center pt-16 text-center">
+    <div class="flex flex-col items-center pt-32 text-center">
         <Transformationdigitaledef/>
     </div>
 </template>
