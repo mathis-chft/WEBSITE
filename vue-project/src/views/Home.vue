@@ -6,9 +6,9 @@
     <div class="flex flex-col items-center gap-10">
         <Projects/>
     </div>
-    <div class="flex flex-col items-center pt-20">
+    <!-- <div class="flex flex-col items-center pt-20">
         <CV/>
-    </div>
+    </div> -->
     <div class="flex flex-col items-center gap-10 pt-20">
         <Contact/>
     </div>
