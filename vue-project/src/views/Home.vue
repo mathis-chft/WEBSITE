@@ -7,10 +7,10 @@
         <Projects/>
     </div>
     <div class="flex flex-col items-center pt-20">
-        <Contact/>
+        <CV/>
     </div>
     <div class="flex flex-col items-center gap-10 pt-20">
-        <CV/>
+        <Contact/>
     </div>
 </template>
 <script>
