@@ -6,7 +6,7 @@
     <div class="flex flex-col items-center gap-10">
         <Projects/>
     </div>
-    <div class="flex flex-col items-center gap-10 pt-5">
+    <div class="flex flex-col items-center gap-10 pt-12">
         <Contact/>
     </div>
 </template>
