@@ -18,7 +18,6 @@ import Projects from '../components/Projects.vue';
 import Navbar from '../components/Navbar.vue';
 import AboutMe from '../components/AboutMe.vue';
 import Contact from '../components/Contact.vue'
-import CV from '../components/CV.vue';
 import Transformationdigitaledef from '../components/Transformationdigitaledef.vue';
 import UXUIdef from '../components/UXUIdef.vue';
 import devdef from '../components/devdef.vue';
@@ -37,7 +36,6 @@ export default {
     devdef,
     businessdef,
     digitaldef,
-    CV
 }
 }
 </script>
