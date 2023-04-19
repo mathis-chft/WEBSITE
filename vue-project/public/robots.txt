@@ -1,10 +1,5 @@
-User-Agent: *
-Allow: /
-
-Disallow: /transformationdigitale
-Disallow: /UXUI
-Disallow: /dev
-Disallow: /business
-Disallow: /digital
+user-agent: *
+Allow: /$
+Disallow: /
 
 Sitemap: https://www.mathischouffot.fr/sitemap.xml
