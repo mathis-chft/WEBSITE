@@ -8,7 +8,7 @@ const app = express();
 app.use((req, res, next) => {
   const nonce = crypto.randomBytes(16).toString('base64');
   res.locals.nonce = nonce;
-  res.setHeader('Content-Security-Policy', `default-src 'self'; script-src 'self' 'nonce-${nonce}' 'strict-dynamic'; style-src 'self' 'nonce-${nonce}'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; frame-src 'self'; base-uri 'self'; form-action 'self'; report-uri https://mathischouffot.fr/csp-report;`);
+  res.setHeader('Content-Security-Policy', `default-src 'self'`);
   next();
 });
 
