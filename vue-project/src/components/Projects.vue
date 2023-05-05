@@ -5,4 +5,4 @@
     <a href="https://www.figma.com/proto/7j0yH7OoELMOLrEoI5KOG1/Untitled?page-id=0%3A1&node-id=1%3A10&viewport=114%2C243%2C0.06&scaling=scale-down&starting-point-node-id=1%3A10" target="_blank" rel="noopener" aria-label="Projet Surcadence" class="bg-[url('../assets/Surcadence..svg')] bg-contain bg-origin-content hover:scale-110 hover:ease-in-out md:p-10 p-10 bg-center bg-no-repeat duration-300 h-32 md:h-48 w-[85%] md:w-[40%] rounded-[34px] bg-[#101010] hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2"></a>
 </template>
 
-<script src="../../vanilla-tilt.js"></script>
+<script type="text/javascript" src="../../vanilla-tilt.js"></script>
