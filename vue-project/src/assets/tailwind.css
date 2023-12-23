@@ -14,24 +14,37 @@
     unicode-range: U+000-5FF;
     src: url('../fonts/AiglonProExtendedDemi.woff2');
 }
+@font-face {
+    font-family: 'GT-Alpina-INF-Condensed-Regular-Italic';
+    font-display: block;
+    unicode-range: U+000-5FF;
+    src: url('../fonts/GT-Alpina-INF-Condensed-Regular-Italic.woff2');
+}
+@font-face {
+    font-family: 'GT-Alpina-INF-Condensed-Regular';
+    font-display: block;
+    unicode-range: U+000-5FF;
+    src: url('../fonts/GT-Alpina-INF-Condensed-Regular.woff2');
+}
+@font-face {
+    font-family: 'GT-Alpina-INF-Regular';
+    font-display: block;
+    unicode-range: U+000-5FF;
+    src: url('../fonts/GT-Alpina-INF-Regular.woff2');
+}
 
 body {
     background-color: black;
 }
 
-h1 {
-    font-family: 'Aiglon Pro Extended';
-}
 h2, h3 {
-    font-family: 'Neue Montreal Bold';
+    font-family: 'GT-Alpina-INF-Condensed-Regular';
 }
 a {
-    font-family: 'Neue Montreal Bold';
-    font-style: italic;
+    font-family: 'GT-Alpina-INF-Condensed-Regular-Italic';
     color: #00B15A;
 }
 span {
-    font-family: 'Neue Montreal Bold';
-    font-style: italic;
+    font-family: 'GT-Alpina-INF-Condensed-Regular-Italic';
     color: #00B15A;
 }

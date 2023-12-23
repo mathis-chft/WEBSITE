@@ -5,7 +5,7 @@
       </a>
       
       <RouterLink to="/">
-        <h1 class="text-xl not-italic text-white">Mathis CHOUFFOT</h1>
+        <h1 class="text-3xl not-italic text-white">Mathis CHOUFFOT</h1>
       </RouterLink>
       <a href="https://www.linkedin.com/in/mathis-chouffot/" target="_blank">
         <img class="mr-8 duration-300 hover:scale-110 hover:ease-in-out min-h-full h-8 w-8 rounded-md hover:ring-[#00B15A] hover:ring-offset-2 hover:ring-offset-black hover:ring-2 hover:outline-offset-2" src="../assets/linkedin.svg" alt="Logo LinkedIn redirigeant vers la page LinkedIn de Mathis Chouffot">
