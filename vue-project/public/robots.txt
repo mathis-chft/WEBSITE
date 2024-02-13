@@ -1,8 +1,5 @@
 user-agent: *
 
-Allow: /sitemap.xml
-Allow: /$
-
 Disallow: /
 
 Sitemap: https://www.mathischouffot.fr/sitemap.xml
